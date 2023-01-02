@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "ace-mode-solidity": "^0.1.1"
+  },
+  "name": "code-editor",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/livebloggerofficial/Code-Editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/livebloggerofficial/Code-Editor/issues"
+  },
+  "homepage": "https://github.com/livebloggerofficial/Code-Editor#readme",
+  "description": ""
+}
